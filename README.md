@@ -4,8 +4,6 @@ Module 6 Challenge: Use frontend technologies to develop a finance calculator fo
 
 I quite like the pattern I adopted for frontend validation (`main.js`) and want to use it again somewhere.
 
-I decided to use Sass just for practice.
-
 ## Challenge
 
 Build a finance calculator that accepts:
